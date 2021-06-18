@@ -66,7 +66,8 @@ export const Repositories = styled.div`
             border: 50%;
         }
         div {
-            margin-left: 16px;
+            margin: 0px 16px;
+            flex: 1;
             strong {
                 font-size: 20px;
                 color: #3d3d4d;
